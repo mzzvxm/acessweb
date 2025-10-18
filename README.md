@@ -71,5 +71,3 @@ Para fins comerciais, consulte o autor.
 ## Autor
 
 Desenvolvido por mzzvxm como parte de portfólio pessoal.
-::contentReference[oaicite:9]{index=9}
-```

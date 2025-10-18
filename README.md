@@ -29,7 +29,7 @@ Ele retrata o movimento Tropicália, com seção de introdução, galeria de ima
 1. Faça o clone deste repositório:  
    ```bash
    git clone https://github.com/mzzvxm/acessweb.git
-```
+``
 
 2. Entre no diretório:
 
